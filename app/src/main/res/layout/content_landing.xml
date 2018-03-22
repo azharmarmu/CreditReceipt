@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.azharuddin.creditreceipt.activity.LandingActivity"
+    tools:showIn="@layout/app_bar_landing">
+
+    <include
+        android:id="@+id/balance_holder"
+        layout="@layout/view_balance"
+        android:visibility="gone" />
+
+    <include
+        android:id="@+id/credit_sale_holder"
+        layout="@layout/view_credit_sale"
+        android:visibility="gone" />
+
+    <include
+        android:id="@+id/receipt_holder"
+        layout="@layout/view_receipt"
+        android:visibility="gone" />
+
+    <include
+        android:id="@+id/customer_holder"
+        layout="@layout/view_customer"
+        android:visibility="gone" />
+
+    <include
+        android:id="@+id/nav_new_credit_sale_holder"
+        layout="@layout/view_new_credit_sale"
+        android:visibility="gone" />
+
+    <include
+        android:id="@+id/user_holder"
+        layout="@layout/view_user"
+        android:visibility="gone" />
+
+</android.support.constraint.ConstraintLayout>
+

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "819361976685",
+    "firebase_url": "https://creditreceipt-108de.firebaseio.com",
+    "project_id": "creditreceipt-108de",
+    "storage_bucket": "creditreceipt-108de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819361976685:android:67ceb11c280921fc",
+        "android_client_info": {
+          "package_name": "com.example.azharuddin.creditreceipt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819361976685-o2oslnfmlt8trrv9f8lqnpab40h03opt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.azharuddin.creditreceipt",
+            "certificate_hash": "f8bb00492a0cf7b0679863882df0fa9b53f5dba7"
+          }
+        },
+        {
+          "client_id": "819361976685-f7eadkvnjq7g8t6a5k7vqi9u0vo07fne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIfjfWNn_EnwoCL_4DoYqN27uelmqHutE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819361976685-f7eadkvnjq7g8t6a5k7vqi9u0vo07fne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
